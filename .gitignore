@@ -14,3 +14,7 @@ local.properties
 .classpath
 .project
 .recommenders
+
+### InteliJIdea ###
+.idea/
+*.iml
